@@ -1,1 +1,11 @@
+Real-World Datasets:
 
+  Text data cleaning:
+
+  Ask A Manager - responses to an open Google survey for the Ask A Manager blog/podcast. Survey responses include short open-response text fields. Field names require cleaning. Salary, Currency, and location-related fields        require cleaning and/or standardization. Other demographic information also requires cleaning.
+
+Curated and/or Synthetic Datasets:
+
+  General data cleaning:
+
+  https://openintro.org/data/ - a trove of dozens of datasets for practice in cleaning, visualization, and analysis. Also found in the openintro R package (https://github.com/OpenIntroStat/openintro).
